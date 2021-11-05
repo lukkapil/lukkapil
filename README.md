@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukkapil
-- 👀 I’m interested in Test Automation Engineering
+- 👀 I’m Test Automation Engineer
 - 🌱 I’m currently learning JavaScript
 
 <!---

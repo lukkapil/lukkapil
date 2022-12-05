@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lukkapil
 - 👀 I’m Test Automation Engineer
-- 🌱 I’m currently learning JavaScript
 
 <!---
 lukkapil/lukkapil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
